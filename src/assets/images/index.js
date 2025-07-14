@@ -2,8 +2,8 @@ import bigShoe1 from "./big-shoe1.png";
 import bigShoe2 from "./big-shoe2.png";
 import bigShoe3 from "./big-shoe3.png";
 
-import customer1 from "./customer1.jpeg";
-import customer2 from "./customer2.svg";
+// import customer1 from "./customer1.jpeg";
+// import customer2 from "./customer2.svg";
 import Ebus1 from "./Ebus1.JPG";
 import Customer from "./Customer.JPG";
 
